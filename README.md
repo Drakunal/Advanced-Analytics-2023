@@ -21,13 +21,13 @@ This repository contains all the labs files for Advanced Analytics, for DSA
 Clone the project
 
 ```bash
-  git clone https://github.com/Drakunal/Advanced-Analytics.git
+  git clone https://github.com/Drakunal/Advanced-Analytics-2023.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Advanced-Analytics
+  cd Advanced-Analytics-2023
 ```
 
 Opening in VS Code
