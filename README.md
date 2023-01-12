@@ -4,7 +4,7 @@
 ![Forks](https://img.shields.io/github/forks/Drakunal/Advanced-Analytics-2023?style=for-the-badge)
 ![Commits](https://img.shields.io/github/last-commit/Drakunal/Advanced-analytics-2023?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Drakunal/Advanced-analytics-2023?color=pink&style=for-the-badge)
-![License](https://img.shields.io/github/license/Drakunal/Advanced-Analytics-2023?style=for-the-badge)
+<!-- ![License](https://img.shields.io/github/license/Drakunal/Advanced-Analytics-2023?style=for-the-badge) -->
 ![Logo](https://github.com/Drakunal/Advanced-Analytics/blob/main/logo.png?raw=true)  
 # Advanced Analytics Lab
 
